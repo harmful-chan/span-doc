@@ -2,14 +2,11 @@
 ## 项目介绍
 物联网智能家居交互增强项目。使命是为了改变用户在使用智能家电的交互方式，使用语音智能交互，OpenCV，Unity3D等技术提高用户体验。
 
-## 智能人机交互发展现状
-人机交互（Human ComputerInteraction 或Human Machine Int...[更多](./human-computer/README.md)
-
-## 智能人机交互核心述求
-语音交互：技术成熟度不断提升，“听的准确”和“说的明白”正逐步...[更多](./human-computer/README.md)
-
 ## 物联网前景分析
 本文转载自公众号“物联网智库”，物联网智库编译整理原文内容来...[更多](./iot-analytics/README.md)
+
+## 智能人机交互发展现状
+人机交互（Human ComputerInteraction 或Human Machine Int...[更多](./human-computer/README.md)
 
 ## 物联网项目资源列表
  A curated list of awesome Internet of Things projects and resources. --Awesoe IoT ...[更多](./awesome-iot/README.md)
